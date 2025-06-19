@@ -17,5 +17,5 @@ This is a special project that reflects the beginning of who I am. I'm still gro
 ## Author
 - GitHub: [SinoMntungwa](https://github.com/SinoMntungwa)
 - Email: mntungwasinokuhle@gmail.com
-- 
+  
 Thank you for taking your time viewing my project!
