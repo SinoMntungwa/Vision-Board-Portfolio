@@ -1,0 +1,53 @@
+body {
+    font-family: 'Segoe UI'; sans-serif;
+    background-color: #fffafc;
+    color: #333;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #ffe4ec;
+    padding: 30px 20px;
+    border-bottom: 2px solid #f8c8dc;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #b85aa1;
+}
+
+.projects, .visions {
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.card a {
+    background-color: #fce9f1;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px auto;
+    width: 80%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    text-decoration: none;
+    color: #6a1b9a;
+    font-weight: bold; 
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: #fdd7ec;
+    padding: 20px;
+    margin-top: 40px;
+}
