@@ -10,3 +10,12 @@ This is a special project that reflects the beginning of who I am. I'm still gro
 ## Languages Used
 - HTML5
 - CSS
+
+## Live Website
+[**Click here to view**](https://sinomntungwa.github.io/Vision-Board-Portfolio/)
+
+## Author
+- GitHub: [SinoMntungwa](https://github.com/SinoMntungwa)
+- Email: mntungwasinokuhle@gmail.com
+- 
+Thank you for taking your time viewing my project!
